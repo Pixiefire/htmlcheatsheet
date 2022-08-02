@@ -49,3 +49,10 @@ h1 {
   body {
     text-align: center;
   }
+ .foot {
+    font-style: italic;
+    font-weight: bold;
+    font-family: "Ink Free", Arial;
+    color: maroon;
+  }
+
