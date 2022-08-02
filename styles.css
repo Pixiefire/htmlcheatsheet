@@ -1,0 +1,51 @@
+h1 {
+    font-weight: bold;
+    color: midnightblue;
+  }
+  h2 {
+    background-color: lightblue;
+  }
+  h3 {
+    background-color: thistle;
+  }
+  h1, h2, h3, h4{
+    font-family: "Ink Free", Arial;
+  }
+  p, ul {
+    font-size: 18px;
+    line-height: 1.5;
+    font-family: monospace, Arial;
+  }
+  .address {
+    color: green;
+  }
+  .csslink {
+    font-weight: bold;
+    color: darkorange;
+  }
+  thead {
+    background-color: seagreen;
+  }
+  th, td {
+    padding: 10px;
+  }
+  .code {
+    font-style: italic;
+    background-color: lightgray;
+  }
+  table {
+    display: table;
+    border: solid green 3px;
+    text-align: start;
+    border-spacing: 2px;
+    font-family: monospace;
+    font-size: 16px;
+    table-layout: fixed;
+  
+  }
+  tr:nth-child(even){
+    background-color: aquamarine;
+  }
+  body {
+    text-align: center;
+  }
