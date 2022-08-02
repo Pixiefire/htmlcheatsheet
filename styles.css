@@ -34,7 +34,7 @@ h1 {
     background-color: lightgray;
   }
   table {
-    display: table;
+    display: inline-table;
     border: solid green 3px;
     text-align: start;
     border-spacing: 2px;
